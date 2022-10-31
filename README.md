@@ -1,4 +1,4 @@
-# tron-game-project-with-tkinter
+# **pvp TRON game using tkinter**
 
 This was a first simple project to work with GUI on python via the tkinter module.
 The game is pretty simmple : it's a sort of player vs player snake game.
